@@ -1,2 +1,2 @@
 # PROJET-JAVASCRITP
-Jeu de memoire
+Jeux de memoire
